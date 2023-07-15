@@ -1,0 +1,17 @@
+INDEX VERSION 1.134+C:\temp\ws-java\CursoUdemy\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3979292275.index
+1920282747.index
+2614875606.index
+171521544.index
+199504408.index
+3166822747.index
+2167110764.index
+2372364382.index
+2825841588.index
+2586320613.index
+2578103943.index
+2094087094.index
+2334069097.index
+765879501.index
+555145698.index
